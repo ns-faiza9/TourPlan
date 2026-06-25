@@ -1,0 +1,13 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+bin/
+
+# Database credentials (never push these!)
+src/main/resources/application.properties
+*.properties
+
+# Build
+target/
+*.class
